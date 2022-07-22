@@ -1,0 +1,1 @@
+insert into user_1 (nombre, fechaRegistro) values ('jose','2021-11-04 10:20:00')
